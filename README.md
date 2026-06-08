@@ -40,10 +40,10 @@ bot-template/
 Stay updated with my latest projects, support, or developer discussions across my official communication lines:
 
 ### 📸 Instagram
-* **Profile:** [@v1han_mishra](https://instagram.com/v1han_mishra)
-*** **Profile 2:** [@skullvension](https://instagram.com/skullvension)**
-* *Feel free to shoot me a DM for networking, project collaborations, or design inquiries.*
+**Profile:** [@v1han_mishra](https://instagram.com/v1han_mishra)
+**Profile 2:** [@skullvension](https://instagram.com/skullvension)
+*Feel free to shoot me a DM for networking, project collaborations, or design inquiries.*
 
 ### 💬 Discord Community
 * **Server Invitation:** [Join The Skull Network](https://discord.gg/7tSPQjtkhz)
-* *Hop in to access our public developer lounges, test upcoming bot frameworks, get system support, or apply for server infrastructure clearance levels.*
+*Hop in to access our public developer lounges, test upcoming bot frameworks, get system support, or apply for server infrastructure clearance levels.*
