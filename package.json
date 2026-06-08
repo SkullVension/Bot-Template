@@ -1,0 +1,26 @@
+{
+  "name": "bot-template",
+  "version": "1.0.0",
+  "description": "A feature-packed, high-performance modular Discord bot template built with a vanilla stack.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "register": "node refresh-commands.js"
+  },
+  "keywords": [
+    "discord",
+    "discordjs",
+    "bot",
+    "template",
+    "boilerplate",
+    "modular-handler"
+  ],
+  "author": "Skull Vension",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  }
+}
