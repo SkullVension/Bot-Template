@@ -1,0 +1,35 @@
+===========================================================================
+DISCORD BOT ARCHITECTURE NOTICE
+===========================================================================
+Product: Bot-Template Boilerplate
+Copyright (c) 2026 Skull Vension
+Upstream Source: https://github.com/skullvension/Bot-Template
+
+This repository contains a modular structural framework, configuration 
+assets, and a core development codebase engineered for application 
+hosting within the Discord ecosystem.
+
+---------------------------------------------------------------------------
+MANDATORY ATTRIBUTION & DISTRIBUTION TERMS:
+---------------------------------------------------------------------------
+Under the copyright protections of this project's license, any public 
+distribution, modification, open-source fork, commercialization, or public 
+hosting of this codebase (or its structural derivatives) MUST adhere to the 
+following attribution requirements:
+
+1. FILE RETENTION: This original NOTICE file must be preserved in its 
+   entirety within the root folder of all distributed or modified versions.
+
+2. APPLICATION CREDITS: The core system identity and structural developer 
+   credits inside the user interface—specifically the "/about" or "/credits" 
+   slash commands—must remain active, accurate, and completely unmodified, 
+   explicitly linking back to the original developer's upstream source.
+
+3. CONSOLE INTEGRITY: Any startup terminal initialization banners or 
+   system logs acknowledging the framework builder must be retained upon 
+   application launch.
+
+Removal, concealment, or misrepresentation of foundational architecture 
+branding or developer attribution constitutes a direct violation of the 
+open-source distribution integrity of this boilerplate.
+===========================================================================
