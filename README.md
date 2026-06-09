@@ -41,6 +41,7 @@ Stay updated with my latest projects, support, or developer discussions across m
 
 ### 📸 Instagram
 **Profile:** [@v1han_mishra](https://instagram.com/v1han_mishra)
+
 **Profile 2:** [@skullvension](https://instagram.com/skullvension)
 *Feel free to shoot me a DM for networking, project collaborations, or design inquiries.*
 
