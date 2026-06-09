@@ -33,7 +33,7 @@ bot-template/
     └── commands/                   # Categorized slash application command arrays
         ├── utility/
         └── moderation/
-
+```
 
 # 🌐 Connect with the Developer
 
